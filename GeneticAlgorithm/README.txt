@@ -1,5 +1,7 @@
 This is a Genetic Algorithm I helped to create as part of my Introduction to Artificial Intelligence Project.
 
+Included is both the code for the Genetic algorithm itself (GA.py) and the small report that was submitted along with the project. 
+
 The Algorithm is designed to optimize a workday based on the time a task takes and the priority of a task, as given in lines 232 and 233, respectively. 
 
 For this project, I designed and implemented the means of generating the inital population of chromosomes, the parent selection process, and the replacement process.
